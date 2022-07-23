@@ -1,13 +1,12 @@
 
 .list {
-    background-color: #fff;
     border-radius: 1rem;
-    padding: 70px 60px;
+    padding: 40px;
     margin: 0 auto;
   }
   
   h2 {
-    color: #111;
+    color: #da957b;
     font-size: 2.25rem;
   }
   
@@ -22,7 +21,7 @@
   
   input {
     background: #fff;
-    border: 0.5 solid #686AAC;
+    border: 0.5 solid #da957b;
     padding: 12px 24px;
     border-radius: 8px;
     height: 100px;
@@ -42,12 +41,12 @@
   }
   
   .add-task {
-    background:#686AAC;
+    background: #da957b;
     width: 300px;
   }
   
   .remove-task {
-    background:rgb(230, 79, 79);
+    background:rgb(230, 136, 136);
     
   }
   

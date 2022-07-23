@@ -27,7 +27,7 @@ function Comentarios() {
         } 
         if (item.title === '') {
         return
-    } 
+        } 
         setList([...list, item])
         setNewItem
     }
